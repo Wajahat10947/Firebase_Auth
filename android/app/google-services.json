@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15785085137",
+    "project_id": "b-unique-hrm",
+    "storage_bucket": "b-unique-hrm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15785085137:android:c94bae63a23f420e165df0",
+        "android_client_info": {
+          "package_name": "com.example.bunique_studio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc3fgOC5xQmyoga85pppPq0EJmrdXx0nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
